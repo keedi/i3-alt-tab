@@ -1,0 +1,16 @@
+{
+  "name": "i3-alt-tab",
+  "version": "0.1.0",
+  "description": "Switch to the next/previous i3 window, either in the current workspace, or in all workspaces.",
+  "author": "Moritz Marquardt",
+  "license": "MIT",
+  "preferGlobal": true,
+  "main": "index.js",
+  "bin": {
+    "i3-alt-tab": "./index.js"
+  },
+  "dependencies": {
+    "eyespect": "^0.1.10",
+    "i3": "^0.2.0"
+  }
+}
