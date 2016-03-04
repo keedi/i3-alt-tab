@@ -1,9 +1,13 @@
 {
   "name": "i3-alt-tab",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Switch to the next/previous i3 window, either in the current workspace, or in all workspaces.",
   "author": "Moritz Marquardt",
   "license": "MIT",
+
+  "repository": "moqmar/i3-alt-tab",
+  "bugs": { "url" : "https://github.com/moqmar/i3-alt-tab/issues" },
+
   "preferGlobal": true,
   "main": "index.js",
   "bin": {
