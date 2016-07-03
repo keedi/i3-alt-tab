@@ -1,6 +1,6 @@
 # i3-alt-tab window switcher
 
-Cycle through all open windows in [i3](https://i3wm.org/) using [node.js](https://nodejs.org/).
+Cycle through all open windows in [i3](https://i3wm.org/) using [node.js](https://nodejs.org/) (requires at least v4.0.0).
 
 ## Installation
     $ sudo npm i -g i3-alt-tab
